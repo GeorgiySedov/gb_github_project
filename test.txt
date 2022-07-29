@@ -2,3 +2,4 @@ test.txt
 вторая строка
 "test2"  
 github update
+"local update"  
