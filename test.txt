@@ -1,13 +1,2 @@
-test.txt 
-вторая строка
-"test2"  
-<<<<<<< HEAD
-github update
-<<<<<<< HEAD
-"local update"  
-=======
-github update 2
->>>>>>> d3553672e1f10ad8d087f3ec8663e90da1edc83f
-=======
-dev-master  
->>>>>>> dev-master
+"test stash 1"  
+"test stash 2"  
